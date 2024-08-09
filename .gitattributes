@@ -1,0 +1,2 @@
+Respiratory_Disease_Detection_System/models/*.h5 filter=lfs diff=lfs merge=lfs -text
+Respiratory_Disease_Detection_System.zip filter=lfs diff=lfs merge=lfs -text
